@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["alfred.wong@thinkresearchgroup.com"]
   spec.summary       = %q{A simplecov formatter that outputs in cobertura format.}
   spec.description   = %q{A simplecov formatter that outputs in cobertura format for Jenkins CI or any other Java based CI Server.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/PatientOrderSets/simplecov-cobertura"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
