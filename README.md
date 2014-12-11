@@ -1,6 +1,7 @@
 # Simplecov::Cobertura
 
-TODO: Write a gem description
+A simple formatter for simplecov to format the coverage in Cobertura format.
+This gem was inspired by [rcov-cobertura](https://github.com/rohanpm/rcov-cobertura "rcov-cobertura") project.
 
 ## Installation
 
@@ -18,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: Still need to figure out what goes here!
 
 ## Contributing
 
